@@ -1,0 +1,14 @@
+com/matheuscesar/emailservice/infrastructure/SendGrid/EnviarEmailSendGrid.class
+com/matheuscesar/emailservice/infrastructure/amazon/EnviarEmailSES.class
+com/matheuscesar/emailservice/exception/EnviarEmailException.class
+com/matheuscesar/emailservice/configuration/ExceptionTranslator.class
+com/matheuscesar/emailservice/dto/ApiResponse.class
+com/matheuscesar/emailservice/dto/ApiResponse$ApiResponseBuilder.class
+com/matheuscesar/emailservice/core/EnviarEmailUseCase.class
+com/matheuscesar/emailservice/application/EnviarEmailService.class
+com/matheuscesar/emailservice/controller/EmailController.class
+com/matheuscesar/emailservice/adapters/EnviarEmailGateway.class
+com/matheuscesar/emailservice/configuration/AmazonConfiguration.class
+com/matheuscesar/emailservice/EmailServiceApplication.class
+com/matheuscesar/emailservice/dto/EnviarEmailRequest$EnviarEmailRequestBuilder.class
+com/matheuscesar/emailservice/dto/EnviarEmailRequest.class

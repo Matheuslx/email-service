@@ -1,0 +1,12 @@
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/EmailServiceApplication.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/dto/ApiResponse.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/configuration/AmazonConfiguration.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/infrastructure/SendGrid/EnviarEmailSendGrid.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/configuration/ExceptionTranslator.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/application/EnviarEmailService.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/controller/EmailController.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/core/EnviarEmailUseCase.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/dto/EnviarEmailRequest.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/exception/EnviarEmailException.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/adapters/EnviarEmailGateway.java
+/home/group/Estudos/projetos-pessoais/email-service/src/main/java/com/matheuscesar/emailservice/infrastructure/amazon/EnviarEmailSES.java
